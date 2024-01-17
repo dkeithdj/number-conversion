@@ -1,3 +1,3 @@
 # DigiConvert
 
-![digiconvert]{./public/DigiConvert.png}
+![digiconvert](./public/DigiConvert.png)
